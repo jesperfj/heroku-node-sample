@@ -1,0 +1,21 @@
+{
+  "name": "node-sample",
+  "version": "0.0.0",
+  "description": "heroku sample",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesperfj/heroku-node-sample.git"
+  },
+  "homepage": "https://github.com/jesperfj/heroku-node-sample",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.1.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
